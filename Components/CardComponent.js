@@ -23,7 +23,7 @@ class CardComponent extends Component {
           <Left>
             <Thumbnail source={require('../assets/beomwoo.jpeg')} />
             <Body>
-              <Text>Beomwoo</Text>
+              <Text>KangStar</Text>
               <Text note>2018년 7월 16일</Text>
             </Body>
           </Left>

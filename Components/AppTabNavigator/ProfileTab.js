@@ -115,7 +115,7 @@ class ProfileTab extends Component {
               </View>
             </View>
             <View style={{ paddingHorizontal: 10, paddingVertical: 10 }}>
-              <Text style={{ fontWeight: 'bold' }}>범우[25:?]</Text>
+              <Text style={{ fontWeight: 'bold' }}>한규[25:?]</Text>
               <Text> React-Native로 </Text>
               <Text> 만들자</Text>
             </View>
